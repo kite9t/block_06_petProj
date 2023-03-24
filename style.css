@@ -34,10 +34,18 @@ body{
 nav{
     background-color: #048A81;
     color: #F4F7BE;
-    text-align: center;
+    text-align: none;
+}
+nav:hover{
+    background-color: #048A81;
+    color: #F4F7BE;
+    text-align: right;
 }
 footer{
     background-color: #048A81 ;
     color:#F4F7BE ;
     text-align: center;
+}
+p:hover{
+    
 }
